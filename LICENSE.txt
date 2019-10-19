@@ -1,4 +1,4 @@
-MIT License
+MIT License for Code
 
 Copyright (c) 2019 Engelbert Niehaus
 
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+Licensing of Icons4Menu
+
+The icons can be used under Creative Commons License. 
+For details see the licensing info in Icons4Menu in img/README_Icons4Menu.html

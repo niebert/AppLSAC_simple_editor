@@ -1,0 +1,25 @@
+{
+  "name": "hamburger_menu_app",
+  "version": "3.1.0",
+  "description": "Icon Set for WebApps designed for application in AppLSACs",
+  "main": "js/menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niebert/hamburger_menu_app.git"
+  },
+  "keywords": [
+    "Icon",
+    "WebApp",
+    "AppLSAC",
+    "SVG"
+  ],
+  "author": "Creative Commons Files - see license documents",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niebert/hamburger_menu_app/issues"
+  },
+  "homepage": "https://github.com/niebert/hamburger_menu_app#readme"
+}
