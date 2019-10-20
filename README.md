@@ -17,7 +17,8 @@ The repository [`hamburger_menu_app`](https://niebert.github.io/hamburger_menu_a
 
    <h3>Hamburger Menu App Demo: https://niebert.github.io/hamburger_menu_app </h3>
 
-## 
+## AppLSAC Reference Repository
+This repository `AppLSAC_simple_editor` is referenced in the [AppLSAC GitLab-repository](https://www.gitlab.org/niehausbert/applsac) for list of support files for the [AppLSAC Learning Resource in Wikiversity](https://en.wikiversity.org/wiki/AppLSAC)  
 
 ## Generation of HTML, CSS and Javascript with [Handlebars4Code](https://niebert.github.io/Handlebars4Code)
 The underlying concept of all code generation is a template engine [Handlebars4Code](https://niebert.github.io/Handlebars4Code), which is based on [HandleBars](http://handlebarsjs.com/) was used as template engine with additional helper functions for code generation. The [`hamburger-menu-creator`](https://niebert.github.io/hamburger-menu-creator) was build
