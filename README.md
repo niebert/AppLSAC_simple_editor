@@ -1,6 +1,7 @@
 # `AppLSAC_simple_editor`
 This is a simple editor for text files to show the basic principles of an [AppLSAC](https://en.wikiversity.org/wiki/AppLSAC) as a WebApp that runs completely offline in browser as runtime environment.
 
+* <H2><a href="https://niebert.github.io/AppLSAC_simple_editor" target="_blank">DEMO AppLSAC Editor</a></h2>
 
 ## Tool Chain for `AppLSAC_simple_editor`
 * [`AppLSAC_simple_editor`](https://niebert.github.com/AppLSAC_simple_editor) was created with with [`JSONEditor4Menu`](https://niehausbert.gitlab.io/jsoneditor4menu)

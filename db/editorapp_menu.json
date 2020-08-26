@@ -50,13 +50,14 @@
                 "title": "Settings",
                 "content": "<!-- This is the page content of the menu item 'Settings' of type 'page' -->\n<b>Filename:</b> <input type='text' id='tFilename' value='myfilename.txt'>"
             },
-            {
+        	{
                 "menutype": "page",
                 "menuicon": "info",
                 "visibility": "visible",
                 "title": "About",
-                "content": "<h3>\n   EditorApp - AppLSAC\n</h3>\n<h4>\n    Editor\n</h4>\n\nThis is a simple text editor with Load, Save and Print features running completely in the browser without submission of loaded data to remote servers.\n<hr>\nThis is an <a href='https://en.wikiversity.org/wiki/AppLSAC' target='_blank'>AppLSAC</a>. The application was create with <a href='https://niehausbert.gitlab.io/jsoneditor4menu' target='_blank'>JSONEditor4Menu</a>. See also <a href='https://www.gitlab.com/niehausbert/jsoneditor4menu' target='_blank'>GitLab repository for source code</a> of JSONEditor4Menu\n<hr>\n<center>Created 2019/09/24 19:39:29<br>last modified 2019/10/19 9:55:26</center>"
+                "content": "<h3>\n   {{{data.appname}}} - {{{data.apptitle}}}\n</h3>\n<h4>\n   {{{data.appsubtitle}}}\n</h4>\n\n{{{data.comment}}}\n<hr>\nThis is an <a href='https://en.wikiversity.org/wiki/AppLSAC' target='_blank'>AppLSAC</a>. The application was create with <a href='https://niehausbert.gitlab.io/jsoneditor4menu' target='_blank'>JSONEditor4Menu</a>. See also <a href='https://www.gitlab.com/niehausbert/jsoneditor4menu' target='_blank'>GitLab repository for source code</a> of JSONEditor4Menu\n<hr>\n<center>Created {{{settings.created}}}<br>last modified {{{settings.modified}}}</center>"
             }
+  
         ]
     },
     "settings": {
