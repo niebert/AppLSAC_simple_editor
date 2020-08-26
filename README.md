@@ -7,7 +7,7 @@ This is a simple editor for text files to show the basic principles of an [AppLS
 * [`AppLSAC_simple_editor`](https://niebert.github.com/AppLSAC_simple_editor) was created with with [`JSONEditor4Menu`](https://niehausbert.gitlab.io/jsoneditor4menu)
 * [`JSONEditor4Menu`](https://niehausbert.gitlab.io/jsoneditor4menu) uses [`hamburger_menu_app`](https://niebert.github.io/hamburger_menu_app) as template for the AppLSAC generation. The [`hamburger_menu_app`](https://niebert.github.io/hamburger_menu_app) contains files that are dynamically replaced by content in [`JSONEditor4Menu`](https://niehausbert.gitlab.io/jsoneditor4menu) to create individualized WebApp with a specific menu.
 * [`hamburger_menu_app`](https://niebert.github.io/hamburger_menu_app) uses [Icons4Menu](https://www.github.com/niebert/icons4menu) to display icons in the Hamburger Menu of [`hamburger_menu_app`](https://niebert.github.io/hamburger_menu_app)
-
+* [`JSON2Schema`](https://niehausbert.gitlab.io/JSON2Schema) to create a JSON Editor with responsive web design and the same user interface of the Hamburger Menu.
 
 ## Hamburger Menu Template -  Brown
 The [`AppLSAC_simple_editor`](https://niebert.github.com/AppLSAC_simple_editor) is based on [`hamburger_menu_app`](https://niebert.github.io/hamburger_menu_app) as template.
